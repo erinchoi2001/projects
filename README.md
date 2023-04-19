@@ -1,7 +1,7 @@
 # Projects
 Hello! This repository features projects I completed during my time as a Data Science major and Web Programming and Applications minor at NYU.
 
-Projects are organized by school year and course.
+Projects are organized by academic year and course name.
 
 ## 2019-20
 ### [Data Science for Everyone Project, Spring 2020](<2019-20/Erin Choi DS4E Final Project.pdf>)
