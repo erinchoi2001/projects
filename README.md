@@ -4,7 +4,7 @@ Hello! This repository features projects I completed during my time as a Data Sc
 Representative projects are listed below from most to least recent, with the respective course title and a brief description of what was accomplished/what libraries and methods were used.
 All projects/assignments are organized by academic year and course title.
 
-## [Fundamentals of Machine Learning, Spring 2023](<2022-23/fundamentals_of_machine_learning/Capstone_Project>)
+## [Fundamentals of Machine Learning, Spring 2023](<2022-23/fundamentals of machine learning/Capstone Project>)
 Building a classification algorithm that predicts music genres using audio features from Spotify API, and performing dimensionality reduction and cluster analysis.
 * Python pandas, matplotlib, sklearn (preprocessing, model_selection), decomposition, manifold, tree, ensemble, metrics)
 * PCA, K-means clustering with Silhouette method, random forest, AdaBoost
